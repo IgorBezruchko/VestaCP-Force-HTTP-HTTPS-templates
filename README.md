@@ -1,9 +1,7 @@
 # VestaCP-Force-HTTP-HTTPS-templates
 Nginx templates for VestaCP. Force website to use http or https and redirect to forced protocal
 
-When you have multiple web-sites and one of them uses SSL (have https support),
-all other sites without SSL (no https support) accessed via https:// will
-redirect to the first web-site that have SSL certificate (have https support).
+When you have multiple web-sites and one of them uses SSL,all other sites without SSL accessed via https:// will redirect to the first web-site that have SSL certificate.
 
 For example:
 domain1.ru has SSL and can be accessed with http://doamin1.ru and https://domain1.ru
