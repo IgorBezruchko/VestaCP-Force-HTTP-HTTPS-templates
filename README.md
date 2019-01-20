@@ -16,3 +16,5 @@ So http://domain1.ru will automatically redirect to https://domain1.ru
 
 All templates should be placed in '/usr/local/vesta/data/templates/web/nginx' path.
 After that they can be easily accessed with Vesta panel.
+
+Garik Bezruchko (https://checksanity.ru)
